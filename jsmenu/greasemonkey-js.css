@@ -1,0 +1,39 @@
+.jack-nav-menu {
+  position: fixed;
+  left: 0;
+  top: 40%;
+  width: 7.8;
+  margin: -2.5em 0 0 0;
+  z-index: 5;
+  background: rgba(140, 124, 98, 0.34);
+  color: rgba(7, 0, 1, 0.67);
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+  border-right: none;
+  padding: 0.5em 2.5em 0.5em 0.5em;
+  box-shadow: 0 1px 3px black;
+  border-radius: 0.5em 3em 3em 0.5em;
+}
+
+.jack-nav-menu li {
+  list-style-type: lower-greek;
+  list-style-position: inside;  
+}
+
+.jack-nav-menu li a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.jack-nav-menu li a {
+    color: inherit;
+    text-decoration: none;
+}
+.jack-nav-menu li a:visited {
+  color: inherit;
+}
+.jack-nav-menu li a:hover {
+   color:#4F2958;
+   text-decoration: underline;
+}
